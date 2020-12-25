@@ -1,0 +1,11 @@
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QData\bin\Debug\netcoreapp3.1\QData.deps.json
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QData\bin\Debug\netcoreapp3.1\QData.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QData\obj\Debug\netcoreapp3.1\QData.csprojAssemblyReference.cache
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QData\obj\Debug\netcoreapp3.1\QData.AssemblyInfoInputs.cache
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QData\obj\Debug\netcoreapp3.1\QData.AssemblyInfo.cs
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QData\bin\Debug\netcoreapp3.1\QData.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QData\bin\Debug\netcoreapp3.1\QDomain.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QData\bin\Debug\netcoreapp3.1\QDomain.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QData\obj\Debug\netcoreapp3.1\QData.csproj.CopyComplete
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QData\obj\Debug\netcoreapp3.1\QData.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QData\obj\Debug\netcoreapp3.1\QData.pdb

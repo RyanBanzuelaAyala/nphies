@@ -1,0 +1,16 @@
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QApplication\bin\Debug\netcoreapp2.1\QApplication.deps.json
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QApplication\bin\Debug\netcoreapp2.1\QApplication.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QApplication\bin\Debug\netcoreapp2.1\QApplication.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QApplication\obj\Debug\netcoreapp2.1\QApplication.csprojAssemblyReference.cache
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QApplication\obj\Debug\netcoreapp2.1\QApplication.AssemblyInfoInputs.cache
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QApplication\obj\Debug\netcoreapp2.1\QApplication.AssemblyInfo.cs
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QApplication\obj\Debug\netcoreapp2.1\QApplication.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\QApplication\obj\Debug\netcoreapp2.1\QApplication.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\bin\Debug\netcoreapp2.1\QApplication.deps.json
+C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\bin\Debug\netcoreapp2.1\QApplication.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\bin\Debug\netcoreapp2.1\QApplication.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.csprojAssemblyReference.cache
+C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.AssemblyInfoInputs.cache
+C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.AssemblyInfo.cs
+C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.pdb

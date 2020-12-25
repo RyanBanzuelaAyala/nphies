@@ -1,0 +1,70 @@
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.xml
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.deps.json
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.runtimeconfig.json
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.runtimeconfig.dev.json
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\ImageWriter.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApplication.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QBase.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QData.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QDomain.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QHttp.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Http.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Service.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\ImageWriter.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QDomain.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApplication.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QBase.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Http.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Service.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QData.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QHttp.pdb
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.csprojAssemblyReference.cache
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.RazorAssemblyInfo.cache
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.RazorAssemblyInfo.cs
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.AssemblyInfoInputs.cache
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.AssemblyInfo.cs
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.RazorTargetAssemblyInfo.cache
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.csproj.CopyComplete
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.xml
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.deps.json
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.runtimeconfig.json
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.runtimeconfig.dev.json
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApi.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApplication.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QBase.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QData.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QDomain.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QHl7.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QHttp.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Http.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Service.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QHl7.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QDomain.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QApplication.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QBase.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Http.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Service.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QData.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\bin\Debug\netcoreapp2.1\QHttp.pdb
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.csprojAssemblyReference.cache
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.RazorAssemblyInfo.cache
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.RazorAssemblyInfo.cs
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.AssemblyInfoInputs.cache
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.AssemblyInfo.cs
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.RazorTargetAssemblyInfo.cache
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.csproj.CopyComplete
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.dll
+C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QApi\obj\Debug\netcoreapp2.1\QApi.pdb

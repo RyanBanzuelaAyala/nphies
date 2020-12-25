@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="V3\Eligibility\Command\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hl7.Fhir.R4" Version="2.0.1" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\QLibrary\QHl7\QHl7.csproj" />
+    <ProjectReference Include="..\..\..\QShared\BaseDomain\QDomain\QDomain.csproj" />
+    <ProjectReference Include="..\..\..\QShared\QApplication\QApplication.csproj" />
+    <ProjectReference Include="..\..\..\QShared\QData\QData.csproj" />
+  </ItemGroup>
+
+</Project>

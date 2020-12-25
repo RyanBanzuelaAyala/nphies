@@ -1,0 +1,5 @@
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QInfrastructure.Api.Service\bin\Debug\netcoreapp3.1\QInfrastructure.Api.Service.deps.json
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QInfrastructure.Api.Service\bin\Debug\netcoreapp3.1\QInfrastructure.Api.Service.dll
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QInfrastructure.Api.Service\obj\Debug\netcoreapp3.1\QInfrastructure.Api.Service.csprojAssemblyReference.cache
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QInfrastructure.Api.Service\obj\Debug\netcoreapp3.1\QInfrastructure.Api.Service.AssemblyInfoInputs.cache
+C:\Users\devqq\source\repos\Supplier Portal v1\QApi\BaseApi\QInfrastructure.Api.Service\obj\Debug\netcoreapp3.1\QInfrastructure.Api.Service.AssemblyInfo.cs

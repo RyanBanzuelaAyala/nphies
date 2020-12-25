@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(MSBuildThisFileName).xml</DocumentationFile>
+    <PackageId>Sample.Versioning.Swagger</PackageId>
+    <Product>SGH nphies service</Product>
+    <Description>SGH API service</Description>
+    <UserSecretsId>a0969551-fd74-464d-aa7f-c4eb95e919a5</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="FluentValidation" Version="9.2.2" />
+    <PackageReference Include="Hl7.Fhir.R4" Version="2.0.1" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="2.3.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Redis" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="2.1.1" />
+    <PackageReference Include="Microsoft.OpenApi" Version="1.2.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+    <PackageReference Include="N.EntityFramework.Extensions" Version="1.3.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="3.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\QLibrary\QHl7\QHl7.csproj" />
+    <ProjectReference Include="..\..\..\QShared\BaseDomain\QDomain\QDomain.csproj" />
+    <ProjectReference Include="..\..\..\QShared\QApplication\QApplication.csproj" />
+    <ProjectReference Include="..\..\..\QShared\QBase\QBase.csproj" />
+    <ProjectReference Include="..\QInfrastructure.Api.Http\QInfrastructure.Api.Http.csproj" />
+    <ProjectReference Include="..\QInfrastructure.Api.Service\QInfrastructure.Api.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>
