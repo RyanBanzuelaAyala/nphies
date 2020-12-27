@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\QBase\\QBase.csproj": {}
+    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QBase\\QBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\QBase\\QBase.csproj": {
+    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QBase\\QBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\QBase\\QBase.csproj",
+        "projectUniqueName": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QBase\\QBase.csproj",
         "projectName": "QBase",
-        "projectPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\QBase\\QBase.csproj",
+        "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QBase\\QBase.csproj",
         "packagesPath": "C:\\Users\\devqq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\QBase\\obj\\",
+        "outputPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

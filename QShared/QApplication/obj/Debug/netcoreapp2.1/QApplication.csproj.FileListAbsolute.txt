@@ -14,3 +14,11 @@ C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\obj\Debug\netcoreapp2
 C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.AssemblyInfo.cs
 C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.dll
 C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QApplication\bin\Debug\netcoreapp2.1\QApplication.deps.json
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QApplication\bin\Debug\netcoreapp2.1\QApplication.dll
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QApplication\bin\Debug\netcoreapp2.1\QApplication.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.csprojAssemblyReference.cache
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.AssemblyInfoInputs.cache
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.AssemblyInfo.cs
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.dll
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QApplication\obj\Debug\netcoreapp2.1\QApplication.pdb

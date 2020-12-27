@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using QBase.Controller;
 using QDomain.Model.Eligibility;
+using QDomain.Response;
 using QInfrastructure.Api.Http.V3.Eligibility;
 using QInfrastructure.Api.Service.V3.Eligibility.Query;
 using System;
@@ -40,10 +41,16 @@ namespace QApi.V3.Controller.Eligibility
         public async Task<ActionResult> Validate([FromBody] NAPHIES_Eligibility_Param param, [FromHeader] string BranchId)
         {
             var fhirSerialzer = new FhirJsonParser();
+
             Bundle resultBundle;
+
             bool? coverageInforce = false;
+
             List<string> errorCodes = new List<string>();
+
             List<string> errorMessages = new List<string>();
+
+            var response = new NAPHIES_Eligibility_Response();
 
             try
             {
@@ -54,7 +61,6 @@ namespace QApi.V3.Controller.Eligibility
                 });
 
                 var httpResponse = _http._httpEligibility(resultMediator.bundleJson);
-
 
                 using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
                 {
@@ -70,8 +76,43 @@ namespace QApi.V3.Controller.Eligibility
                             {
                                 var coverageEligibilityResponse = (CoverageEligibilityResponse)entry.Resource;
 
-                                coverageInforce = coverageEligibilityResponse.Insurance[0].Inforce;
+                                response.EligibilityID = param.EligibilityID;
+
+                                response.ReferenceID = coverageEligibilityResponse.Identifier[0].Value;
+
+                                if (coverageEligibilityResponse.Insurance.Count > 0)
+                                {
+                                    response.StatusCode = coverageEligibilityResponse.Insurance[0].Inforce.ToString();
+
+                                    if (coverageEligibilityResponse.Insurance[0].Item.Count > 0)
+                                    {
+
+                                        List<NAPHIES_Eligibility_Benefits> listBenefits = new List<NAPHIES_Eligibility_Benefits>();
+
+                                        foreach (var item in coverageEligibilityResponse.Insurance[0].Item)
+                                        {
+                                            NAPHIES_Eligibility_Benefits benefit = new NAPHIES_Eligibility_Benefits();
+
+                                            benefit.CategoryCode = item.Category.Coding[0].Code;
+
+                                            benefit.Covered = item.Excluded;
+
+                                            listBenefits.Add(benefit);
+                                        }
+
+                                        response.Benefits = listBenefits;
+
+                                    }
+                                }
+                                else
+                                {
+                                    response.StatusCode = false.ToString();
+                                }
+
+                                response.StatusDescription = coverageEligibilityResponse.Disposition;
+
                                 errorCodes = null;
+
                                 errorMessages = null;
                             }
                         }
@@ -104,25 +145,52 @@ namespace QApi.V3.Controller.Eligibility
 
                                 if (coverageEligibilityResponse.Error != null && coverageEligibilityResponse.Error.Count > 0)
                                 {
-                                    coverageInforce = coverageEligibilityResponse.Insurance[0].Inforce;
+                                    if (coverageEligibilityResponse.Insurance.Count > 0)
+                                    {
+                                        response.StatusCode = coverageEligibilityResponse.Insurance[0].Inforce.ToString();
+                                    }
+                                    else
+                                    {
+                                        response.StatusCode = false.ToString();
+                                    }
 
                                     foreach (var errorMsg in coverageEligibilityResponse.Error)
                                     {
                                         errorMessages.Add(errorMsg.Code.Text);
                                     }
+
+                                    response.StatusDescription = String.Join(",", errorMessages);
+
+                                }
+
+                            }
+                            else if (entry.Resource.TypeName == "OperationOutcome")
+                            {
+                                var operationOutcome = (OperationOutcome)entry.Resource;
+                                if (operationOutcome.Issue != null && operationOutcome.Issue.Count > 0)
+                                {
+                                    foreach (var errorMsg in operationOutcome.Issue)
+                                    {
+                                        errorMessages.Add(errorMsg.Details.Text);
+                                    }
+
+                                    response.StatusCode = "false";
+                                    response.StatusDescription = String.Join(",", errorMessages);
+
                                 }
                             }
                         }
                     }
                 }
-
-                return BadRequest(new
-                {
-                    ReturnCode = errorCodes != null ? String.Join(",", errorCodes) : null,
-                    ReturnMsgs = errorMessages != null ? String.Join(",", errorCodes) : null,
-                    ReturnData = (bool)coverageInforce ? "The Coverage is Inforce" : "The Coverage is not inforce. Please check errors!"
-                });
             }
+
+            return BadRequest(new
+            {
+                ReturnCode = errorCodes != null ? String.Join(",", errorCodes) : null,
+                ReturnMsgs = errorMessages != null ? String.Join(",", errorCodes) : null,
+                ReturnData = (bool)coverageInforce ? "The Coverage is Inforce" : "The Coverage is not inforce. Please check errors!"
+            });
+            
         }
     }
 }

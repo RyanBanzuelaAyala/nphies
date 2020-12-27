@@ -14091,11 +14091,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devqq\\source\\repos\\Nphies\\QApi\\BaseApi\\QApi\\QApi.csproj",
+      "projectUniqueName": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QApi\\QApi.csproj",
       "projectName": "Sample.Versioning.Swagger",
-      "projectPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QApi\\BaseApi\\QApi\\QApi.csproj",
+      "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QApi\\QApi.csproj",
       "packagesPath": "C:\\Users\\devqq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QApi\\BaseApi\\QApi\\obj\\",
+      "outputPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -14119,23 +14119,23 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\devqq\\source\\repos\\Nphies\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj": {
-              "projectPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj"
+            "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj": {
+              "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj"
             },
-            "C:\\Users\\devqq\\source\\repos\\Nphies\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj": {
-              "projectPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj"
+            "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj": {
+              "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj"
             },
-            "C:\\Users\\devqq\\source\\repos\\Nphies\\QLibrary\\QHl7\\QHl7.csproj": {
-              "projectPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QLibrary\\QHl7\\QHl7.csproj"
+            "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj": {
+              "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj"
             },
-            "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {
-              "projectPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\BaseDomain\\QDomain\\QDomain.csproj"
+            "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {
+              "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj"
             },
-            "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\QApplication\\QApplication.csproj": {
-              "projectPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\QApplication\\QApplication.csproj"
+            "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj": {
+              "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj"
             },
-            "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\QBase\\QBase.csproj": {
-              "projectPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\QBase\\QBase.csproj"
+            "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QBase\\QBase.csproj": {
+              "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QBase\\QBase.csproj"
             }
           }
         }

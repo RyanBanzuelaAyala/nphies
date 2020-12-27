@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {}
+    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {
+    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\BaseDomain\\QDomain\\QDomain.csproj",
+        "projectUniqueName": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj",
         "projectName": "QDomain",
-        "projectPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\BaseDomain\\QDomain\\QDomain.csproj",
+        "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj",
         "packagesPath": "C:\\Users\\devqq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devqq\\source\\repos\\Nphies\\QShared\\BaseDomain\\QDomain\\obj\\",
+        "outputPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

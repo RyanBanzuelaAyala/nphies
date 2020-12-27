@@ -6,7 +6,7 @@ namespace QDomain.Model.Eligibility
 {
     public class NAPHIES_Eligibility_Param
     {
-        public int EligibilityID { get; set; }
+        public string EligibilityID { get; set; }
         public string Purpose { get; set; } // Discovery, Validation, Benefit
         public DateTime ServicedDate { get; set; }
         public DateTime ServicePeriodStartDate { get; set; }
@@ -14,7 +14,7 @@ namespace QDomain.Model.Eligibility
         public string CoverageCode { get; set; }
         public string CoverageDisplay { get; set; }
         public string MembershipID { get; set; }
-
+        public string Relationship { get; set; }
         public string FirstName { get; set; }
         public string MiddleName { get; set; }
         public string LastName { get; set; }

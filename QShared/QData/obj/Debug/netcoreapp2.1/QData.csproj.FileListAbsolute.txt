@@ -24,3 +24,16 @@ C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QData\obj\Debug\netcoreapp2.1\QDat
 C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QData\obj\Debug\netcoreapp2.1\QData.csproj.CopyComplete
 C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QData\obj\Debug\netcoreapp2.1\QData.dll
 C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QData\obj\Debug\netcoreapp2.1\QData.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\bin\Debug\netcoreapp2.1\QData.deps.json
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\bin\Debug\netcoreapp2.1\QData.runtimeconfig.json
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\bin\Debug\netcoreapp2.1\QData.runtimeconfig.dev.json
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\bin\Debug\netcoreapp2.1\QData.dll
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\bin\Debug\netcoreapp2.1\QData.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\bin\Debug\netcoreapp2.1\QDomain.dll
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\bin\Debug\netcoreapp2.1\QDomain.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\obj\Debug\netcoreapp2.1\QData.csprojAssemblyReference.cache
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\obj\Debug\netcoreapp2.1\QData.AssemblyInfoInputs.cache
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\obj\Debug\netcoreapp2.1\QData.AssemblyInfo.cs
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\obj\Debug\netcoreapp2.1\QData.csproj.CopyComplete
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\obj\Debug\netcoreapp2.1\QData.dll
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QData\obj\Debug\netcoreapp2.1\QData.pdb

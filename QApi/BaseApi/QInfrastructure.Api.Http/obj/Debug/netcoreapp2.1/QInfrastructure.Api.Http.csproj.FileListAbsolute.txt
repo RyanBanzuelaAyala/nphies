@@ -20,3 +20,14 @@ C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QInfrastructure.Api.Http\obj\
 C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QInfrastructure.Api.Http\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Http.csproj.CopyComplete
 C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QInfrastructure.Api.Http\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Http.dll
 C:\Users\devqq\Desktop\Nphies\QNphies\QApi\BaseApi\QInfrastructure.Api.Http\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Http.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Http\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Http.deps.json
+C:\Users\devqq\Source\Repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Http\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Http.dll
+C:\Users\devqq\Source\Repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Http\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Http.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Http\bin\Debug\netcoreapp2.1\QHttp.dll
+C:\Users\devqq\Source\Repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Http\bin\Debug\netcoreapp2.1\QHttp.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Http\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Http.csprojAssemblyReference.cache
+C:\Users\devqq\Source\Repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Http\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Http.AssemblyInfoInputs.cache
+C:\Users\devqq\Source\Repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Http\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Http.AssemblyInfo.cs
+C:\Users\devqq\Source\Repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Http\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Http.csproj.CopyComplete
+C:\Users\devqq\Source\Repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Http\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Http.dll
+C:\Users\devqq\Source\Repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Http\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Http.pdb

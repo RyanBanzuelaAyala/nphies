@@ -33,13 +33,7 @@
         /// <returns>The <see cref="IAsyncResult"/>.</returns>
         public HttpWebResponse _httpEligibility(string requestJson)
         {
-            var fhirSerialzer = new FhirJsonParser();
             Bundle resultBundle;
-            bool? coverageInforce = false;
-            List<string> errorCodes = new List<string>();
-            List<string> errorMessages = new List<string>();
-
-            HttpWebResponse httpResponse = null;
 
             try
             {
@@ -48,13 +42,13 @@
                 httpWebRequest.Method = "POST";
                 ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12 | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls;
 
-                //httpWebRequest.Headers["username"] = config.GetSection("NphiesCredentials").GetSection("Nphies_UserName").Value;//"Provider";
-                //httpWebRequest.Headers["password"] = config.GetSection("NphiesCredentials").GetSection("Nphies_Password").Value;//"P@ssw0rd";
-                //httpWebRequest.Headers["Authorization"] = "Bearer " + config.GetSection("NphiesCredentials").GetSection("Nphies_Token").Value; ;
+                httpWebRequest.Headers["username"] = config.GetSection("NphiesCredentials").GetSection("Nphies_UserName").Value;//"Provider";
+                httpWebRequest.Headers["password"] = config.GetSection("NphiesCredentials").GetSection("Nphies_Password").Value;//"P@ssw0rd";
+                httpWebRequest.Headers["Authorization"] = "Bearer " + config.GetSection("NphiesCredentials").GetSection("Nphies_Token").Value; ;
 
-                httpWebRequest.Headers["username"] = config["Nphies_UserName"];//"Provider";
-                httpWebRequest.Headers["password"] = config["Nphies_Password"];//"P@ssw0rd";
-                httpWebRequest.Headers["Authorization"] = "Bearer " + config["Nphies_Token"]; ;
+                //httpWebRequest.Headers["username"] = config["Nphies_UserName"];//"Provider";
+                //httpWebRequest.Headers["password"] = config["Nphies_Password"];//"P@ssw0rd";
+                //httpWebRequest.Headers["Authorization"] = "Bearer " + config["Nphies_Token"]; ;
 
                 using (var streamWriter = new StreamWriter(httpWebRequest.GetRequestStream()))
                 {

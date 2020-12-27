@@ -12,7 +12,6 @@ namespace QApi.V3.Model.Eligibility
         public string CoverageCode { get; set; }
         public string CoverageDisplay { get; set; }
         public string MembershipID { get; set; }
-
         public string FirstName { get; set; }
         public string MiddleName { get; set; }
         public string LastName { get; set; }
@@ -23,7 +22,6 @@ namespace QApi.V3.Model.Eligibility
         public string Identifier { get; set; }
         public string Gender { get; set; }
         public DateTime DateOfBirth { get; set; }
-
         public string ProviderID { get; set; }
         public string ProviderName { get; set; }
         public string PayerID { get; set; }

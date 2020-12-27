@@ -2991,11 +2991,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devqq\\source\\repos\\nphies\\QShared\\QApplication\\QApplication.csproj",
+      "projectUniqueName": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj",
       "projectName": "QApplication",
-      "projectPath": "C:\\Users\\devqq\\source\\repos\\nphies\\QShared\\QApplication\\QApplication.csproj",
+      "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj",
       "packagesPath": "C:\\Users\\devqq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devqq\\source\\repos\\nphies\\QShared\\QApplication\\obj\\",
+      "outputPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

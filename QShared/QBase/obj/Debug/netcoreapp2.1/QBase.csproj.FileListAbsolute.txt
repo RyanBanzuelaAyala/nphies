@@ -14,3 +14,11 @@ C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QBase\obj\Debug\netcoreapp2.1\QBas
 C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QBase\obj\Debug\netcoreapp2.1\QBase.AssemblyInfo.cs
 C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QBase\obj\Debug\netcoreapp2.1\QBase.dll
 C:\Users\devqq\Desktop\Nphies\QNphies\QShared\QBase\obj\Debug\netcoreapp2.1\QBase.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QBase\bin\Debug\netcoreapp2.1\QBase.deps.json
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QBase\bin\Debug\netcoreapp2.1\QBase.dll
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QBase\bin\Debug\netcoreapp2.1\QBase.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QBase\obj\Debug\netcoreapp2.1\QBase.csprojAssemblyReference.cache
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QBase\obj\Debug\netcoreapp2.1\QBase.AssemblyInfoInputs.cache
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QBase\obj\Debug\netcoreapp2.1\QBase.AssemblyInfo.cs
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QBase\obj\Debug\netcoreapp2.1\QBase.dll
+C:\Users\devqq\Source\Repos\nphiesX\QShared\QBase\obj\Debug\netcoreapp2.1\QBase.pdb

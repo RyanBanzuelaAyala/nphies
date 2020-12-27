@@ -14,3 +14,11 @@ C:\Users\devqq\Desktop\Nphies\QNphies\QLibrary\QHttp\obj\Debug\netcoreapp2.1\QHt
 C:\Users\devqq\Desktop\Nphies\QNphies\QLibrary\QHttp\obj\Debug\netcoreapp2.1\QHttp.AssemblyInfo.cs
 C:\Users\devqq\Desktop\Nphies\QNphies\QLibrary\QHttp\obj\Debug\netcoreapp2.1\QHttp.dll
 C:\Users\devqq\Desktop\Nphies\QNphies\QLibrary\QHttp\obj\Debug\netcoreapp2.1\QHttp.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QLibrary\QHttp\bin\Debug\netcoreapp2.1\QHttp.deps.json
+C:\Users\devqq\Source\Repos\nphiesX\QLibrary\QHttp\bin\Debug\netcoreapp2.1\QHttp.dll
+C:\Users\devqq\Source\Repos\nphiesX\QLibrary\QHttp\bin\Debug\netcoreapp2.1\QHttp.pdb
+C:\Users\devqq\Source\Repos\nphiesX\QLibrary\QHttp\obj\Debug\netcoreapp2.1\QHttp.csprojAssemblyReference.cache
+C:\Users\devqq\Source\Repos\nphiesX\QLibrary\QHttp\obj\Debug\netcoreapp2.1\QHttp.AssemblyInfoInputs.cache
+C:\Users\devqq\Source\Repos\nphiesX\QLibrary\QHttp\obj\Debug\netcoreapp2.1\QHttp.AssemblyInfo.cs
+C:\Users\devqq\Source\Repos\nphiesX\QLibrary\QHttp\obj\Debug\netcoreapp2.1\QHttp.dll
+C:\Users\devqq\Source\Repos\nphiesX\QLibrary\QHttp\obj\Debug\netcoreapp2.1\QHttp.pdb
