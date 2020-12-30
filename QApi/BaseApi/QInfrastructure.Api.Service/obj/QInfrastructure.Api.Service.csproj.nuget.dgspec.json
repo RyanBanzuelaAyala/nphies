@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj": {}
+    "C:\\Users\\devqq\\source\\repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj": {
+    "C:\\Users\\devqq\\source\\repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj",
+        "projectUniqueName": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj",
         "projectName": "QInfrastructure.Api.Service",
-        "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj",
+        "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\QInfrastructure.Api.Service.csproj",
         "packagesPath": "C:\\Users\\devqq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\obj\\",
+        "outputPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -35,17 +35,17 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj": {
-                "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj"
+              "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj": {
+                "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj"
               },
-              "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {
-                "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj"
+              "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {
+                "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj"
               },
-              "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj": {
-                "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj"
+              "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj": {
+                "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj"
               },
-              "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QData\\QData.csproj": {
-                "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QData\\QData.csproj"
+              "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QData\\QData.csproj": {
+                "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QData\\QData.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj": {
+    "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj",
+        "projectUniqueName": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj",
         "projectName": "QHl7",
-        "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj",
+        "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHl7\\QHl7.csproj",
         "packagesPath": "C:\\Users\\devqq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHl7\\obj\\",
+        "outputPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHl7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -163,14 +163,14 @@
         }
       }
     },
-    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {
+    "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj",
+        "projectUniqueName": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj",
         "projectName": "QDomain",
-        "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj",
+        "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj",
         "packagesPath": "C:\\Users\\devqq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\obj\\",
+        "outputPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -230,14 +230,14 @@
         }
       }
     },
-    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj": {
+    "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj",
+        "projectUniqueName": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj",
         "projectName": "QApplication",
-        "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj",
+        "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QApplication\\QApplication.csproj",
         "packagesPath": "C:\\Users\\devqq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QApplication\\obj\\",
+        "outputPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -297,14 +297,14 @@
         }
       }
     },
-    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QData\\QData.csproj": {
+    "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QData\\QData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QData\\QData.csproj",
+        "projectUniqueName": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QData\\QData.csproj",
         "projectName": "QData",
-        "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QData\\QData.csproj",
+        "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QData\\QData.csproj",
         "packagesPath": "C:\\Users\\devqq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\QData\\obj\\",
+        "outputPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\QData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -328,8 +328,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {
-                "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj"
+              "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj": {
+                "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QShared\\BaseDomain\\QDomain\\QDomain.csproj"
               }
             }
           }

@@ -45,6 +45,7 @@
           "QDomain": "1.0.0",
           "QHl7": "1.0.0",
           "QInfrastructure.Api.Http": "1.0.0",
+          "QInfrastructure.Api.Log": "1.0.0",
           "QInfrastructure.Api.Service": "1.0.0",
           "Swashbuckle.AspNetCore": "3.0.0",
           "Swashbuckle.AspNetCore.SwaggerUI": "3.0.0"
@@ -941,7 +942,8 @@
       "QBase/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": "2.1.1",
-          "Microsoft.AspNetCore.Mvc.Versioning": "2.3.0"
+          "Microsoft.AspNetCore.Mvc.Versioning": "2.3.0",
+          "QInfrastructure.Api.Log": "1.0.0"
         },
         "runtime": {
           "QBase.dll": {}
@@ -1015,6 +1017,19 @@
         },
         "compile": {
           "QInfrastructure.Api.Http.dll": {}
+        }
+      },
+      "QInfrastructure.Api.Log/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "2.1.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.1.1",
+          "QData": "1.0.0"
+        },
+        "runtime": {
+          "QInfrastructure.Api.Log.dll": {}
+        },
+        "compile": {
+          "QInfrastructure.Api.Log.dll": {}
         }
       },
       "QInfrastructure.Api.Service/1.0.0": {
@@ -4560,6 +4575,11 @@
       "sha512": ""
     },
     "QInfrastructure.Api.Http/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QInfrastructure.Api.Log/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -9,6 +9,7 @@ using QBase.Controller;
 using QDomain.Model.Eligibility;
 using QDomain.Response;
 using QInfrastructure.Api.Http.V3.Eligibility;
+using QInfrastructure.Api.Log;
 using QInfrastructure.Api.Service.V3.Eligibility.Query;
 using System;
 using System.Collections.Generic;
@@ -26,12 +27,14 @@ namespace QApi.V3.Controller.Eligibility
         private readonly IMapper _mapper;
         private readonly IMediator _mediator;
         private readonly IHttpEligibility _http;
+        private readonly IAuditTrail _log;
 
-        public MemberEligibilityController(IMapper mapper, IMediator mediator, IHttpEligibility http)
+        public MemberEligibilityController(IMapper mapper, IMediator mediator, IHttpEligibility http, IAuditTrail log)
         {
             _mapper = mapper;
             _mediator = mediator;
             _http = http;
+            _log = log;
         }
 
         [ProducesResponseType(StatusCodes.Status200OK)]
@@ -119,6 +122,8 @@ namespace QApi.V3.Controller.Eligibility
                     }
                 }
 
+                await _log.LogRequestWrite(param.ToString(), resultBundle.ToString(), "Eligibility-Validate", httpResponse.StatusCode.ToString());
+
                 return Ok(new
                 {
                     ReturnCode = errorCodes != null ? String.Join(",", errorCodes) : null,
@@ -181,6 +186,8 @@ namespace QApi.V3.Controller.Eligibility
                             }
                         }
                     }
+
+                    await _log.LogRequestWrite(param.ToString(), resultBundle.ToString(), "Eligibility-Validate", errorResponse.StatusCode.ToString());
                 }
             }
 

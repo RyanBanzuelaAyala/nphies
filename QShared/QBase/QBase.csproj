@@ -9,4 +9,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="2.3.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\QApi\BaseApi\QInfrastructure.Api.Log\QInfrastructure.Api.Log.csproj" />
+  </ItemGroup>
+
 </Project>

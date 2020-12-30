@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="V3\Eligibility\Command\" />
+    <Folder Include="V3\Logging\" />
     <Folder Include="V3\PreAuthorization\Command\" />
     <Folder Include="V3\PreAuthorization\Model\" />
   </ItemGroup>

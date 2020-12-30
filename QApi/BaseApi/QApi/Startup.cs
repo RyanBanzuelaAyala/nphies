@@ -12,6 +12,7 @@ using QApplication;
 using QData;
 using QHl7;
 using QInfrastructure.Api.Http;
+using QInfrastructure.Api.Log;
 using System;
 using System.Text;
 using System.Threading.Tasks;
@@ -47,10 +48,11 @@ namespace Sample.Versioning.Swagger
             services.InstallServicesInAssembly(Configuration);
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddApplication(Configuration);
-            services.AddInfrastructureApiHttp(Configuration);
+            services.AddInfrastructureApiHttp(Configuration);            
             services.AddConfigBusiness(Configuration);
             services.AddSghQHl7(Configuration);
-            
+            services.AddInfrastructureApiLog(Configuration);
+
             #endregion
 
             #region JWT + CORS

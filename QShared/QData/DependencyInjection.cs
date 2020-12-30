@@ -22,7 +22,10 @@ namespace QData
             });
 
             services.AddSqlServerDbContextFactory<AppsDbContext>();
-            services.AddScoped<IConfigRepository, ConfigBusiness>();
+
+            services.AddScoped(typeof(IConfigRepository), typeof(ConfigBusiness));
+            services.AddScoped(typeof(IConfigAuditTrail), typeof(ConfigAuditTrail));
+
 
             return services;
         }

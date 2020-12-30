@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj": {}
+    "C:\\Users\\devqq\\source\\repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj": {
+    "C:\\Users\\devqq\\source\\repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj",
+        "projectUniqueName": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj",
         "projectName": "QInfrastructure.Api.Http",
-        "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj",
+        "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\QInfrastructure.Api.Http.csproj",
         "packagesPath": "C:\\Users\\devqq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\obj\\",
+        "outputPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QApi\\BaseApi\\QInfrastructure.Api.Http\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -35,8 +35,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHttp\\QHttp.csproj": {
-                "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHttp\\QHttp.csproj"
+              "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHttp\\QHttp.csproj": {
+                "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHttp\\QHttp.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHttp\\QHttp.csproj": {
+    "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHttp\\QHttp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHttp\\QHttp.csproj",
+        "projectUniqueName": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHttp\\QHttp.csproj",
         "projectName": "QHttp",
-        "projectPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHttp\\QHttp.csproj",
+        "projectPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHttp\\QHttp.csproj",
         "packagesPath": "C:\\Users\\devqq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devqq\\Source\\Repos\\nphiesX\\QLibrary\\QHttp\\obj\\",
+        "outputPath": "C:\\Users\\devqq\\source\\repos\\nphiesX\\QLibrary\\QHttp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

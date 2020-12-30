@@ -51,8 +51,8 @@
         /// <returns>The <see cref="Task{NAPHIES_Eligibility_Param}"/>.</returns>
         public async Task<EligibilityValidateVM> Handle(EligibilityValidateQuery request, CancellationToken cancellationToken)
         {
-            //string ServiceRootUrl = "http://sgw.s.nphies.sa/tmb/$process-message";
-            string ServiceRootUrl = "http://176.105.150.83/tmb/$process-message";
+            string ServiceRootUrl = "http://sgw.s.nphies.sa/tmb/$process-message";
+            //string ServiceRootUrl = "http://176.105.150.83/tmb/$process-message";
 
             string messageHeaderId = Guid.NewGuid().ToString();
 

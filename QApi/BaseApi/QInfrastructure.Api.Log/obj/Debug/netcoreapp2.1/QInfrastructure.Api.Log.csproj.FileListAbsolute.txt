@@ -1,0 +1,13 @@
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Log.deps.json
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Log.dll
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\bin\Debug\netcoreapp2.1\QInfrastructure.Api.Log.pdb
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\bin\Debug\netcoreapp2.1\QData.dll
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\bin\Debug\netcoreapp2.1\QDomain.dll
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\bin\Debug\netcoreapp2.1\QData.pdb
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\bin\Debug\netcoreapp2.1\QDomain.pdb
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Log.csprojAssemblyReference.cache
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Log.AssemblyInfoInputs.cache
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Log.AssemblyInfo.cs
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Log.csproj.CopyComplete
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Log.dll
+C:\Users\devqq\source\repos\nphiesX\QApi\BaseApi\QInfrastructure.Api.Log\obj\Debug\netcoreapp2.1\QInfrastructure.Api.Log.pdb

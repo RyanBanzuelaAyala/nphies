@@ -13,9 +13,7 @@ namespace QDomain.Model.Core
         public string Region { get; set; }
         public string Mobile { get; set; }
         public string EmailAddStatement { get; set; }
-
-        public QDomain.Model.Supplier.Supplier Supplier { get; set; }
-
+        
         public List<System_Activity> System_Activity { get; set; }
 
         public CoreUser()

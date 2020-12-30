@@ -35,6 +35,7 @@
     <ProjectReference Include="..\..\..\QShared\QApplication\QApplication.csproj" />
     <ProjectReference Include="..\..\..\QShared\QBase\QBase.csproj" />
     <ProjectReference Include="..\QInfrastructure.Api.Http\QInfrastructure.Api.Http.csproj" />
+    <ProjectReference Include="..\QInfrastructure.Api.Log\QInfrastructure.Api.Log.csproj" />
     <ProjectReference Include="..\QInfrastructure.Api.Service\QInfrastructure.Api.Service.csproj" />
   </ItemGroup>
 
